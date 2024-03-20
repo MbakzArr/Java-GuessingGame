@@ -1,0 +1,13 @@
+Change GuessingGame2 to do the following:
+
+a) Keep track of the score and print it at the end when the user quits.
+
+Example:
+computer picked 22
+user guessed 21, 23, 22
+computer picked 24
+user guessed 21 24
+
+The score is: 5 guesses for 2 numbers; an average of 2.5 guesses per number.
+ 
+b) NO MAGIC NUMBERS ALLOWED!!!
